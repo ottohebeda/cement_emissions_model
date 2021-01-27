@@ -1,0 +1,12 @@
+﻿Combustivel,FM,CP,AD,Iluminacao,Refrigeracao,Outras
+Gas natural,0,0,1,0,0,0
+Outras não especificadas,0,0,1,0,0,0
+Carvao metalurgico,0,0,1,0,0,0
+Oleo diesel,1,0,0,0,0,0
+Oleo combustivel,0,0.162,0.838,0,0,0
+GLP,0,0,1,0,0,0
+Coque de Carvao Mineral,0,0,1,0,0,0
+Eletricidade,0.984,0,0,0.013,0.002,0.001
+Carvao vegetal,0,0,1,0,0,0
+Lenha,0,0,1,0,0,0
+Outras fontes secundarias de petroleo,0,0,1,0,0,0
