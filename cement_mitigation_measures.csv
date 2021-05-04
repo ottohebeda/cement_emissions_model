@@ -1,0 +1,16 @@
+﻿Name,Step,Electricity saving (Mj/t clinker),Fuel saving (Mj/ t clinker),CAPEX (EUR2013/t),OPEX (EUR2013/t)
+Replacing a ball mill with vertical roller mill,Raw material preparation,39.6,0,0,0
+mechanical transport system,Raw material preparation,11.27,0,8.55,0
+Gravity-type homogising silo,Raw material preparation,9.58,0,3,0
+Cyclone preheater and precalciner,Clinker production,18,900,85,0
+Retrofitting of precalciner,Clinker production,0,430,23.21,0
+Retrofitting cyclone with lower pressure drop,Clinker production,9.36,0,3.68,0
+Modernization of grate coolers,Clinker production,-12.6,200,8.75,0
+Optimisation of the process control system,Clinker production,8.46,116,1.59,0
+Multiple stages,Clinker production,0,0,16,0
+Vertical roller mills,Cement grinding,93.35,0,15.09,0
+High efficiency classifiers,Cement grinding,14.4,0,2.71,0
+Other improvements,Cement grinding,21.96,0,2.37,0
+Blended cement,Cement grinding,0,0,6,3
+Alternative fuels,Fuel related,-3,300 negative *x,5,fuel prices
+CCS,Innovation,,,,
