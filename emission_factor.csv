@@ -1,0 +1,33 @@
+﻿Combustivel,CO2,CH4,N2O,% biogenic
+Petroleo,143,0.003,0.0006,0
+Gasolina,69.3,0.003,0.0006,0
+Querosene,71.5,0.003,0.0006,0
+Oleo diesel,74.1,0.003,0.0006,0
+Oleo combustivel,77.4,0.003,0.0006,0
+GLP,63.1,0.001,0.0001,0
+Nafta,73.3,0.003,0.0006,0
+Coque de petroleo,97.5,0.003,0.0006,0
+Gas de refinaria,57.6,0.003,0.0006,0
+Outras fontes secundarias,80.7,0.01,0.0015,0
+Outras primarias nao renovaveis,73.3,0.002,0.0006,0
+Lignito,101,0.003,0.0006,0
+Carvao vapor,94.6,0.003,0.0006,0
+Carvao mineral,96.1,0.01,0.0015,0
+Alcatrao e derivados,80.7,0.01,0.0015,0
+Coque de carvao mineral,107,0.01,0.0015,0
+Gas natural,56.1,0.001,0.0001,0
+Gas canalisado,56.1,0.003,0.0006,0
+Gas cidade,44.4,0.01,0.0015,0
+Lenha,0,0.03,0.004,1
+Carvao vegetal,0,0.2,0.004,1
+Bagaco de cana,0,0.03,0.004,1
+Caldo de cana,0,0.003,0.0006,1
+Melaco,0,0.003,0.0006,1
+Gas de aciaria,44.4,0.003,0.0006,0
+Gas de alto-forno,44.4,0.03,0.004,0
+Residuos industriais nao perigosos,143,0.03,0.004,0.1
+Residuos industriais perigosos,143,0.03,0.004,0.1
+Pneus,91.7,0.03,0.004,0.18
+CDR,91.7,0.03,0.004,0.6
+Esgoto,91.7,0.03,0.004,1
+Residuos agricolas,0,0.03,0.004,1
