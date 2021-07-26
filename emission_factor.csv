@@ -25,8 +25,8 @@ Caldo de cana,0,0.003,0.0006,1
 Melaco,0,0.003,0.0006,1
 Gas de aciaria,44.4,0.003,0.0006,0
 Gas de alto-forno,44.4,0.03,0.004,0
-Residuos industriais nao perigosos,143,0.03,0.004,0.1
-Residuos industriais perigosos,143,0.03,0.004,0.1
+Residuos industriais nao perigosos,143,0.03,0.004,0.66
+Residuos industriais perigosos,143,0.03,0.004,0.125
 Pneus,91.7,0.03,0.004,0.18
 CDR,91.7,0.03,0.004,0.6
 Esgoto,91.7,0.03,0.004,1
