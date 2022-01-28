@@ -1,2 +1,2 @@
-﻿﻿Name,Step,Electricity saving (Mj/t clinker),Fuel saving (Mj/ t clinker),CAPEX ($/t),OPEX ($/t)
-Blended,Cement grinding,0,0,10.5,3
+﻿﻿Name,Step,Electricity saving (Mj/t clinker),Fuel saving (Mj/ t clinker),CAPEX ($/t),OPEX ($/t),Penetration_limit
+Blended,Cement grinding,0,0,10.5,3,0.52
