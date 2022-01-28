@@ -1,6 +1,5 @@
 ﻿Name,Step,Electricity saving (Mj/t clinker),Fuel saving (Mj/ t clinker),CAPEX ($/t),OPEX ($/t)
 Adjustable speed drive,Clinker production,18,60,0.23,0
-Blended cement,Cement grinding,0,0,10.5,3
 Conversion to reciprocating grate cooler,Clinker production,0,220,10,0
 Energy management and process control,Clinker production,9.3,140,0.9,0
 Alternative fuels,Fuel related,-3,300,5,0.5
